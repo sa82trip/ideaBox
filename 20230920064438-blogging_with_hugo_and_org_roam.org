@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       31c8e71f-5bea-4d24-9e40-31bd839f354c
+:END:
+#+title: blogging_with_hugo_and_org_roam
+
+- Hugo and org-roam can deliver static site for using as blog
+
+* reference sites
+https://ox-hugo.scripter.co/
+https://gohugo.io/getting-started/quick-start/

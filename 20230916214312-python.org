@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       3e7c1f23-7076-466f-a1fb-d15a6e7e40ea
+:END:
+#+title: Python
+- Easy but powerful
+  hello

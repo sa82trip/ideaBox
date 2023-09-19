@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       6ce202d7-4bc0-4800-8ea7-4f3018a48933
+:END:
+#+title: Programming
+* Languages
+:PROPERTIES:
+:ID:       d2d54da0-3bf1-4d7c-8afc-5e3e50d566df
+:END:
+- [[id:e969a586-879e-47ca-8306-ed37d21527e5][Java]]
+- [[id:d15c1e4c-340a-445d-b4df-230fce2c16f1][Elisp]]
+- [[id:639d1657-1d75-433b-874f-ecad27b8a232][Shell]]
+- [[id:3e7c1f23-7076-466f-a1fb-d15a6e7e40ea][Python]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       e969a586-879e-47ca-8306-ed37d21527e5
+:END:
+#+title: Java
+
+* Main Things to know about this language
+- Java runs on JVM
+- Java is OOP
+* Studying Java
+- annotation
+  #+begin_quote Java Tutorial https://docs.oracle.com/javase/tutorial/java/annotations/
+  Annotations, a form of metadata, provide data about a program that is not part of the program itself. Annotations have no direct effect on the operation of the code they annotate.
+  #+end_quote
+  5부터 등장
+  ~@~ 을 앞에 붙임
+  언제 처리 될 지 지정 할 수 있음 ex)compile, runtime

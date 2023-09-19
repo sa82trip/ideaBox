@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       639d1657-1d75-433b-874f-ecad27b8a232
+:END:
+#+title: Shell
+* This language is very useful when we need to work in terminal

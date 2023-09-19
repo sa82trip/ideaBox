@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       d15c1e4c-340a-445d-b4df-230fce2c16f1
+:END:
+#+title: Elisp
